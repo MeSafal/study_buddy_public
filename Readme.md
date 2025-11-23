@@ -21,13 +21,13 @@
 
 ## 📱 App Screenshots
 
-| Dashboard & Streaks | Weekly Schedule | Quiz Interface |
-|:---:|:---:|:---:|
-| ![Dashboard](https://via.placeholder.com/250x500?text=Dashboard) | ![Schedule](https://via.placeholder.com/250x500?text=Schedule) | ![Quiz](https://via.placeholder.com/250x500?text=Quiz) |
+|        Dashboard & Streaks        |         Weekly Schedule         |      Quiz Interface     |
+| :-------------------------------: | :-----------------------------: | :---------------------: |
+| ![Dashboard](asset/dashboard.jpg) | ![Schedule](asset/schedule.jpg) | ![Quiz](asset/quiz.jpg) |
 
-*(Note: Actual screenshots to be added)*
 
 ---
+
 
 ## � User Guide: How to Use Study Buddy
 
