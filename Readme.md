@@ -98,7 +98,8 @@ Study Buddy is engineered for **reliability** and **performance**:
 
 ## 🚀 Download & Demo
 
-[Link to APK Download] | [Watch Demo Video]
+This application is currently private, and the APK is not available for public distribution.
+Access, downloads, or redistribution are not permitted at this time.
 
 ---
 
