@@ -32,6 +32,10 @@
 | :----------------------------------: | :---------------------------------:| :------------------------------: |
 | ![Schedule](asset/ai.jpg)            | ![Streaks](asset/tools.jpg)        | ![Charts](asset/it_more.jpg)     |
 
+|  Subjective Questioin Index Screen   |        Objective Home Screen       |      Objective Question Page     |
+| :----------------------------------: | :---------------------------------:| :------------------------------: |
+| ![Schedule](asset/subjective.jpg)    | ![Streaks](asset/obj_home.jpg)     | ![Charts](asset/obj_qn.jpg)      |
+
 ---
 
 ## 🎯 Technical Architecture
