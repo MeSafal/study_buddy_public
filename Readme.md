@@ -21,16 +21,16 @@
 ## 📱 Screenshots
 
 |    Dashboard with Charts (Light)     | Dashboard with Charts (Dark)       |           Sidebar View            |
-| :----------------------------------: | :---------------------------------: | :------------------------------: |
-| ![Dashboard](asset/d_light.jpg)    | ![Quiz Modes](asset/d_dark.jpg)| ![Import](asset/json_import.jpg) |
+| :----------------------------------: | :---------------------------------:| :------------------------------: |
+| ![Dashboard](asset/d_light.jpg)    | ![Quiz Modes](asset/d_dark.jpg)      | ![Import](asset/s_bar.jpg) |
 
-|        Weekly Schedule Setup         |      Streak Status Indicators       |      Analytics Weekly View       |
-| :----------------------------------: | :---------------------------------: | :------------------------------: |
-| ![Schedule](asset/schedule.jpg)      | ![Streaks](asset/streaks.jpg)      | ![Charts](asset/weekly_chart.jpg)|
+|        Weekly Schedule Setup         |           Streak Logic             |           Setting Screen         |
+| :----------------------------------: | :---------------------------------:| :------------------------------: |
+| ![Schedule](asset/weekly_setup.jpg)      | ![Streaks](asset/streak.jpg)   | ![Charts](asset/setting.jpg)|
 
-|        Weekly Schedule Setup         |      Streak Status Indicators       |      Analytics Weekly View       |
-| :----------------------------------: | :---------------------------------: | :------------------------------: |
-| ![Schedule](asset/schedule.jpg)      | ![Streaks](asset/streaks.jpg)      | ![Charts](asset/weekly_chart.jpg)|
+|         AI Generator Screen          |           IT Tools Screen          |      IT Tools More Dropdown      |
+| :----------------------------------: | :---------------------------------:| :------------------------------: |
+| ![Schedule](asset/ai.jpg)            | ![Streaks](asset/tools.jpg)        | ![Charts](asset/it_more.jpg)     |
 
 ---
 
