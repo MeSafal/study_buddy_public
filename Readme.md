@@ -1,5 +1,6 @@
 # Study Buddy 🎓
 ### *AI-Powered Study Companion for IT Officer Aspirants*
+## My biggest and latest flutter project
 
 > A production-grade Flutter application combining intelligent quiz algorithms, offline-first architecture, and reliable background notifications to help candidates master their IT officer exams.
 
@@ -19,9 +20,13 @@
 
 ## 📱 Screenshots
 
-|        Dashboard with Charts         |         Quiz Modes Interface        |      JSON Import (Dual-Tab)      |
+|    Dashboard with Charts (Light)     | Dashboard with Charts (Dark)       |           Sidebar View            |
 | :----------------------------------: | :---------------------------------: | :------------------------------: |
-| ![Dashboard](asset/dashboard.jpg)   | ![Quiz Modes](asset/quiz_modes.jpg)| ![Import](asset/json_import.jpg) |
+| ![Dashboard](asset/d_light.jpg)    | ![Quiz Modes](asset/d_dark.jpg)| ![Import](asset/json_import.jpg) |
+
+|        Weekly Schedule Setup         |      Streak Status Indicators       |      Analytics Weekly View       |
+| :----------------------------------: | :---------------------------------: | :------------------------------: |
+| ![Schedule](asset/schedule.jpg)      | ![Streaks](asset/streaks.jpg)      | ![Charts](asset/weekly_chart.jpg)|
 
 |        Weekly Schedule Setup         |      Streak Status Indicators       |      Analytics Weekly View       |
 | :----------------------------------: | :---------------------------------: | :------------------------------: |
