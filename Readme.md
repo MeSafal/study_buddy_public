@@ -36,6 +36,10 @@
 | :----------------------------------: | :---------------------------------:| :------------------------------: |
 | ![Schedule](asset/subjective.jpg)    | ![Streaks](asset/obj_home.jpg)     | ![Charts](asset/obj_qn.jpg)      |
 
+|       Objective More Dropdown        |         Json Import Screen         |   Webview for important Site     |
+| :----------------------------------: | :---------------------------------:| :------------------------------: |
+| ![Schedule](asset/obj_more.jpg)    | !    [Streaks](asset/json.jpg)       | ![Charts](asset/web.jpg)      |
+
 ---
 
 ## 🎯 Technical Architecture
