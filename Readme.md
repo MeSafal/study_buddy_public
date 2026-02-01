@@ -19,26 +19,25 @@
 ---
 
 ## 📱 Screenshots
+|     Dashboard with Charts (Light)     |     Dashboard with Charts (Dark)    |           Sidebar View           |
+| :-----------------------------------: | :---------------------------------: | :------------------------------: |
+| ![Dashboard Light](asset/d_light.jpg) | ![Dashboard Dark](asset/d_dark.jpg) | ![Sidebar View](asset/s_bar.jpg) |
 
-|    Dashboard with Charts (Light)     | Dashboard with Charts (Dark)       |           Sidebar View            |
-| :----------------------------------: | :---------------------------------:| :------------------------------: |
-| ![Dashboard](asset/d_light.jpg)    | ![Quiz Modes](asset/d_dark.jpg)      | ![Import](asset/s_bar.jpg) |
+|            Weekly Schedule Setup           |            Streak Logic           |             Setting Screen            |
+| :----------------------------------------: | :-------------------------------: | :-----------------------------------: |
+| ![Weekly Schedule](asset/weekly_setup.jpg) | ![Streak Logic](asset/streak.jpg) | ![Settings Screen](asset/setting.jpg) |
 
-|        Weekly Schedule Setup         |           Streak Logic             |           Setting Screen         |
-| :----------------------------------: | :---------------------------------:| :------------------------------: |
-| ![Schedule](asset/weekly_setup.jpg)      | ![Streaks](asset/streak.jpg)   | ![Charts](asset/setting.jpg)|
+|      AI Generator Screen      |        IT Tools Screen       |        IT Tools More Dropdown       |
+| :---------------------------: | :--------------------------: | :---------------------------------: |
+| ![AI Generator](asset/ai.jpg) | ![IT Tools](asset/tools.jpg) | ![IT Tools More](asset/it_more.jpg) |
 
-|         AI Generator Screen          |           IT Tools Screen          |      IT Tools More Dropdown      |
-| :----------------------------------: | :---------------------------------:| :------------------------------: |
-| ![Schedule](asset/ai.jpg)            | ![Streaks](asset/tools.jpg)        | ![Charts](asset/it_more.jpg)     |
+|      Subjective Question Index Screen     |         Objective Home Screen         |         Objective Question Page         |
+| :---------------------------------------: | :-----------------------------------: | :-------------------------------------: |
+| ![Subjective Index](asset/subjective.jpg) | ![Objective Home](asset/obj_home.jpg) | ![Objective Question](asset/obj_qn.jpg) |
 
-|  Subjective Questioin Index Screen   |        Objective Home Screen       |      Objective Question Page     |
-| :----------------------------------: | :---------------------------------:| :------------------------------: |
-| ![Schedule](asset/subjective.jpg)    | ![Streaks](asset/obj_home.jpg)     | ![Charts](asset/obj_qn.jpg)      |
-
-|       Objective More Dropdown        |         Json Import Screen         |   Webview for important Site     |
-| :----------------------------------: | :---------------------------------:| :------------------------------: |
-| ![Schedule](asset/obj_more.jpg)    | !    [Streaks](asset/json.jpg)       | ![Charts](asset/web.jpg)      |
+|        Objective More Dropdown        |       JSON Import Screen       |   Webview for Important Site   |
+| :-----------------------------------: | :----------------------------: | :----------------------------: |
+| ![Objective More](asset/obj_more.jpg) | ![JSON Import](asset/json.jpg) | ![Webview Site](asset/web.jpg) |
 
 ---
 
